@@ -4,12 +4,12 @@ Recall is a terminal based dictionary I made so I can learn linux commands and s
 I am not to be held accountable for your use of my code
 
 # How to use
-Notes
+Note:
 program only works in bash terminal
 
 
 The program is made entirely in shell and is best operated off of an alias. If you want to use this program I recommend creating a .bash_aliases file in your home
-directory and typing   alias recall="bash /home/Downloads/Recall/recall.sh"
+directory and typing   alias recall="bash /home/Downloads/Recall-master/recall.sh"
 
 
 http://ejware.com/wp-content/uploads/2020/07/editme.png
